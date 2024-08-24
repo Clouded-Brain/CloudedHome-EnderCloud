@@ -1,0 +1,78 @@
+# Query: "protocol": "stlink"
+
+25 results - 25 files
+
+buildroot\share\PlatformIO\boards\marlin_blackSTM32F407VET6.json:
+  52:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_BTT_BTT002_VET6.json:
+  33:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_BTT_BTT002.json:
+  33:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_BTT_EBB42_V1_1.json:
+  36:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_BTT_Octopus_Pro_v1_F429.json:
+  38:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_BTT_Octopus_v1.json:
+  25:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_BTT_SKR_SE_BX.json:
+  42:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_CREALITY_STM32F401RE.json:
+  53:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_FYSETC_CHEETAH_V20.json:
+  52:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_FYSETC_CHEETAH_V30.json:
+  25:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_fysetc_s6.json:
+  25:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_I3DBEEZ9.json:
+  33:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_maple_CHITU_F103.json:
+  33:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_MKS_ROBIN2.json:
+  52:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_MKS_SKIPR_V1.json:
+  42:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_STM32F401RE_freeruns.json:
+  53:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_STM32F407VGT6_CCM.json:
+  44:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_STM32F429VGT6.json:
+  38:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_STM32F446ZET_tronxy.json:
+  25:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_STM32G0B1RE.json:
+  36:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_STM32G0B1VE.json:
+  36:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_STM32H723VG.json:
+  47:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_STM32H723ZE.json:
+  47:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_STM32H723ZG.json:
+  47:     "protocol": "stlink",
+
+buildroot\share\PlatformIO\boards\marlin_STM32H743VI.json:
+  47:     "protocol": "stlink",
